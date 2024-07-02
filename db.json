@@ -1,12 +1,46 @@
 {
   "users": [
-    {"id":1,"name":"BPM@","nickname":"6!ba","email":"w7GFT","phone":"phL#"},
-    {"id":2,"name":"YWLeQgA","nickname":"DD*!zG","email":"e@Knz","phone":"NwG3"},
-    {"id":3,"name":"cl)#Cy","nickname":"pbZF","email":"QSq^r","phone":"WMGC5A"}
+    {
+      "id": 1,
+      "name": "BPM@",
+      "nickname": "6!ba",
+      "email": "w7GFT",
+      "phone": "phL#"
+    },
+    {
+      "id": 2,
+      "name": "YWLeQgA",
+      "nickname": "DD*!zG",
+      "email": "e@Knz",
+      "phone": "NwG3"
+    },
+    {
+      "id": 3,
+      "name": "cl)#Cy",
+      "nickname": "pbZF",
+      "email": "QSq^r",
+      "phone": "WMGC5A"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+    {
+      "id": 79924430563906,
+      "title": "NJ#oz",
+      "price": 6516600195224760,
+      "desc": "#@DI"
+    },
+    {
+      "id": 5041260267798900,
+      "title": "Xgd",
+      "price": 6213300131358036,
+      "desc": "JMe"
+    },
+    {
+      "id": 202361517167876,
+      "title": "jmo)sI",
+      "price": 3956365210515146,
+      "desc": "EW3"
+    }
   ],
   "profile": {
     "name": "typicode"
